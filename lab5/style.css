@@ -1,0 +1,30 @@
+h1 {
+color: rgba(221, 66, 66, 0.897);
+font-size: 300%;
+background-color: wheat;
+text-decoration: underline;
+text-align: center;
+font-family: "Comic Sans MS" ;
+}
+
+
+li {
+    color: rgb(145, 220, 250);
+    font-size: 80%;
+    font-family: "Comic Sans MS" ;
+}
+
+
+#pinksubtitle {
+    color: rgb(255, 161, 177);
+    font-weight: bold;
+    font-size: 150%;
+    font-family: "Comic Sans MS" ;
+}
+
+
+.plumsubtitle {
+    color: plum;
+    font-weight: bold;
+    font-size: 150% ;
+    font-family: "Comic Sans MS" ;
