@@ -1,0 +1,38 @@
+h1 {
+    color: royalblue;
+    font-size: 200%;
+    text-align: center;
+}
+
+#subtitle {
+    color: royalblue;
+    text-align: center;
+}
+
+#first_block {
+    color: royalblue;
+    background-color: rgb(255, 196, 205);
+    width: 300px;
+    border: 15px solid rgb(162, 227, 253);
+    padding:50px;
+    margin: 20px;
+}
+
+#second_block {
+    color: royalblue;
+    background-color: lavenderblush;
+    width: auto;
+    border: 8px dashed plum;
+    padding: 20px;
+    margin: 20px;
+}
+
+#third_block {
+    color: royalblue;
+    text-align: center;
+    background-color: rgb(250, 250, 121);
+    width: 40;
+    border: 7px double red;
+    padding: 30px;
+    margin: 25px;
+}
