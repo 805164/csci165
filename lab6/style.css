@@ -29,9 +29,8 @@ h1 {
 
 #third_block {
     color: royalblue;
-    text-align: center;
     background-color: rgb(250, 250, 121);
-    width: 40;
+    width: 40%;
     border: 7px double red;
     padding: 30px;
     margin: 25px;
