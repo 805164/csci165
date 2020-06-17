@@ -1,0 +1,41 @@
+h1 {
+    border: solid black;
+    color: white;
+    background-color: plum;
+    text-align: center;
+}
+
+h2 {
+    border: solid black;
+    color: #000099;
+    background-color: palegoldenrod;
+    width: 400px;
+}
+
+td, th, table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table table tr td {
+    color: 	#ff6699;
+}
+/* unvisited link */
+a:link {
+    color: #ff3333;
+}
+
+/* visited link */
+a:visited {
+    color: #ff3366;
+}
+
+/* mouse over link */
+a:hover {
+    color: #33ffff;
+}
+
+/* selected link */
+a:active {
+    color: #ff6633;
+}
