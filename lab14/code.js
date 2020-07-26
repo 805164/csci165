@@ -43,4 +43,7 @@ divide = function() {
     setup = function() {
     jQuery('#divide_button').click(divide)
     }
+
+
+    
     jQuery(document).ready(setup)
